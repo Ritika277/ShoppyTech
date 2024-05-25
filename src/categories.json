@@ -1,0 +1,432 @@
+{
+  "categories": [
+    {
+      "name": "Electronics",
+      "subcategories": [
+        {
+          "name": "Mobiles",
+          "subcategories": [
+            "Smartphones",
+            "Feature Phones",
+            "Mobile Accessories"
+          ]
+        },
+        {
+          "name": "Laptops",
+          "subcategories": [
+            "Gaming Laptops",
+            "Business Laptops",
+            "2-in-1 Laptops",
+            "Laptop Accessories"
+          ]
+        },
+        {
+          "name": "Cameras",
+          "subcategories": [
+            "DSLR",
+            "Mirrorless",
+            "Point & Shoot",
+            "Camera Accessories"
+          ]
+        },
+        {
+          "name": "Audio",
+          "subcategories": [
+            "Headphones",
+            "Speakers",
+            "Soundbars",
+            "Home Audio"
+          ]
+        },
+        {
+          "name": "Wearable Technology",
+          "subcategories": [
+            "Smartwatches",
+            "Fitness Trackers",
+            "VR Headsets"
+          ]
+        },
+        {
+          "name": "Gaming",
+          "subcategories": [
+            "Gaming Consoles",
+            "Gaming Accessories",
+            "Video Games"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Home & Living",
+      "subcategories": [
+        {
+          "name": "Furniture",
+          "subcategories": [
+            "Living Room",
+            "Bedroom",
+            "Dining Room",
+            "Office Furniture",
+            "Outdoor Furniture"
+          ]
+        },
+        {
+          "name": "Home Decor",
+          "subcategories": [
+            "Wall Art",
+            "Clocks",
+            "Photo Frames",
+            "Vases",
+            "Candles & Fragrances"
+          ]
+        },
+        {
+          "name": "Kitchen & Dining",
+          "subcategories": [
+            "Cookware",
+            "Tableware",
+            "Kitchen Storage",
+            "Kitchen Appliances"
+          ]
+        },
+        {
+          "name": "Bedding",
+          "subcategories": [
+            "Bedsheets",
+            "Pillows",
+            "Blankets",
+            "Mattresses"
+          ]
+        },
+        {
+          "name": "Bath",
+          "subcategories": [
+            "Towels",
+            "Bath Mats",
+            "Shower Curtains",
+            "Bathroom Accessories"
+          ]
+        },
+        {
+          "name": "Lighting",
+          "subcategories": [
+            "Ceiling Lights",
+            "Table Lamps",
+            "Floor Lamps",
+            "Outdoor Lighting"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beauty",
+      "subcategories": [
+        {
+          "name": "Makeup",
+          "subcategories": [
+            "Face",
+            "Eyes",
+            "Lips",
+            "Nails"
+          ]
+        },
+        {
+          "name": "Skincare",
+          "subcategories": [
+            "Moisturizers",
+            "Cleansers",
+            "Treatments & Serums",
+            "Sunscreen"
+          ]
+        },
+        {
+          "name": "Haircare",
+          "subcategories": [
+            "Shampoo",
+            "Conditioner",
+            "Hair Treatments",
+            "Styling Tools"
+          ]
+        },
+        {
+          "name": "Fragrances",
+          "subcategories": [
+            "Perfumes",
+            "Body Mists",
+            "Deodorants"
+          ]
+        },
+        {
+          "name": "Men's Grooming",
+          "subcategories": [
+            "Shaving",
+            "Skincare",
+            "Beard Care",
+            "Hair Care"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kids",
+      "subcategories": [
+        {
+          "name": "Clothing",
+          "subcategories": [
+            "Boys Clothing",
+            "Girls Clothing",
+            "Baby Clothing"
+          ]
+        },
+        {
+          "name": "Footwear",
+          "subcategories": [
+            "Boys Footwear",
+            "Girls Footwear",
+            "Baby Footwear"
+          ]
+        },
+        {
+          "name": "Toys",
+          "subcategories": [
+            "Educational Toys",
+            "Action Figures",
+            "Dolls",
+            "Outdoor Toys"
+          ]
+        },
+        {
+          "name": "Baby Care",
+          "subcategories": [
+            "Diapers",
+            "Baby Food",
+            "Baby Bath",
+            "Baby Health"
+          ]
+        },
+        {
+          "name": "School Supplies",
+          "subcategories": [
+            "Bags",
+            "Stationery",
+            "Lunch Boxes",
+            "Water Bottles"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sports & Outdoors",
+      "subcategories": [
+        {
+          "name": "Sports Equipment",
+          "subcategories": [
+            "Cricket",
+            "Football",
+            "Basketball",
+            "Tennis",
+            "Badminton"
+          ]
+        },
+        {
+          "name": "Fitness Equipment",
+          "subcategories": [
+            "Cardio Equipment",
+            "Strength Equipment",
+            "Yoga & Pilates",
+            "Fitness Accessories"
+          ]
+        },
+        {
+          "name": "Outdoor Adventure",
+          "subcategories": [
+            "Camping & Hiking",
+            "Cycling",
+            "Fishing",
+            "Water Sports"
+          ]
+        },
+        {
+          "name": "Athletic Clothing",
+          "subcategories": [
+            "Men's Sportswear",
+            "Women's Sportswear",
+            "Kids' Sportswear"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fashion",
+      "subcategories": [
+        {
+          "name": "Men",
+          "subcategories": [
+            {
+              "name": "Ethnic Wear",
+              "subcategories": [
+                "Kurtas & Kurta Sets",
+                "Sherwanis",
+                "Nehru Jackets",
+                "Dhotis"
+              ]
+            },
+            {
+              "name": "Western Wear",
+              "subcategories": [
+                "T-Shirts",
+                "Casual Shirts",
+                "Formal Shirts",
+                "Sweatshirts",
+                "Sweaters",
+                "Jackets",
+                "Blazers & Coats",
+                "Suits",
+                "Rain Jackets"
+              ]
+            },
+            {
+              "name": "Bottomwear",
+              "subcategories": [
+                "Jeans",
+                "Casual Trousers",
+                "Formal Trousers",
+                "Shorts",
+                "Track Pants & Joggers"
+              ]
+            },
+            {
+              "name": "Footwear",
+              "subcategories": [
+                "Casual Shoes",
+                "Sports Shoes",
+                "Formal Shoes",
+                "Sneakers",
+                "Sandals & Floaters",
+                "Flip Flops",
+                "Socks"
+              ]
+            },
+            {
+              "name": "Sports & Active Wear",
+              "subcategories": [
+                "Sports Shoes",
+                "Sports Sandals",
+                "Active T-Shirts",
+                "Track Pants & Shorts",
+                "Tracksuits",
+                "Jackets & Sweatshirts",
+                "Sports Accessories",
+                "Swimwear"
+              ]
+            },
+            {
+              "name": "Fashion Accessories",
+              "subcategories": [
+                "Wallets",
+                "Belts",
+                "Perfumes & Body Mists",
+                "Trimmers",
+                "Deodorants",
+                "Ties, Cufflinks & Pocket Squares",
+                "Accessory Gift Sets",
+                "Caps & Hats",
+                "Mufflers, Scarves & Gloves",
+                "Phone Cases",
+                "Rings & Wristwear",
+                "Helmets"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Women",
+          "subcategories": [
+            {
+              "name": "Ethnic Wear",
+              "subcategories": [
+                "Sarees",
+                "Kurtas & Suits",
+                "Ethnic Dresses",
+                "Lehenga Cholis",
+                "Dupattas",
+                "Blouses",
+                "Ethnic Bottoms",
+                "Palazzos",
+                "Skirts & Ghagras",
+                "Leggings & Churidars"
+              ]
+            },
+            {
+              "name": "Western Wear",
+              "subcategories": [
+                "Tops",
+                "Dresses",
+                "T-Shirts",
+                "Jeans",
+                "Trousers & Capris",
+                "Shorts & Skirts",
+                "Sweaters & Sweatshirts",
+                "Jackets & Coats",
+                "Blazers & Waistcoats"
+              ]
+            },
+            {
+              "name": "Bottomwear",
+              "subcategories": [
+                "Jeans",
+                "Leggings",
+                "Palazzos",
+                "Trousers & Capris",
+                "Shorts & Skirts"
+              ]
+            },
+            {
+              "name": "Footwear",
+              "subcategories": [
+                "Flats",
+                "Heels",
+                "Wedges",
+                "Sports Shoes",
+                "Flip Flops",
+                "Sandals",
+                "Casual Shoes",
+                "Boots"
+              ]
+            },
+            {
+              "name": "Sports & Active Wear",
+              "subcategories": [
+                "Sports Shoes",
+                "Sports Sandals",
+                "Active T-Shirts",
+                "Track Pants & Shorts",
+                "Tracksuits",
+                "Jackets & Sweatshirts",
+                "Sports Accessories",
+                "Swimwear"
+              ]
+            },
+            {
+              "name": "Fashion Accessories",
+              "subcategories": [
+                "Handbags",
+                "Wallets",
+                "Belts",
+                "Perfumes & Body Mists",
+                "Trimmers",
+                "Deodorants",
+                "Ties, Cufflinks & Pocket Squares",
+                "Accessory Gift Sets",
+                "Caps & Hats",
+                "Mufflers, Scarves & Gloves",
+                "Phone Cases",
+                "Rings & Wristwear",
+                "Helmets"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
